@@ -1,0 +1,1 @@
+{"name":"aegentis-vr-backend","version":"9.0.0","description":"AEGENTIS VR WebSocket Server","main":"vr-server.js","scripts":{"start":"node vr-server.js"},"dependencies":{"ws":"^8.16.0","express":"^4.18.2","jsonwebtoken":"^9.0.2","xrpl":"^2.14.0"}}
